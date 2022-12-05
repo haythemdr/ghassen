@@ -13,7 +13,7 @@
           "name": "battlefield",
           "sold": false,
           "price": 0,
-          "image": "../assets/battlefield-game-4k-2048x2048.jpg",
+          "image": "5.5.png",
           "description": "the best first person shoot games is avaliable now"
         },
         {
@@ -21,7 +21,7 @@
           "name": "God of war",
           "sold": false,
           "price": 50,
-          "image": "../assets/14290590.webp",
+         "image": "5.5.png",
           "video": "../assets/battlefield-1-trailer-4k-videodownloader.ai.webm",
           "description": "the best first person shoot games is avaliable now"
         }
