@@ -5,7 +5,7 @@
           "name": "call of duty",
           "sold": true,
           "price": 10.2,
-          "@image": "5.5.png",
+          "image": "5.5.png",
           "description": "the best first person shoot games is avaliable now"
         },
         {
