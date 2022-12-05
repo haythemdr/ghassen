@@ -5,7 +5,7 @@
           "name": "call of duty",
           "sold": true,
           "price": 10.2,
-          "image": "../assets/wp4806071-call-of-duty-mobile-4k-wallpapers.jpg",
+          "@image": "../assets",
           "description": "the best first person shoot games is avaliable now"
         },
         {
