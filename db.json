@@ -32,39 +32,5 @@
         }
       ]
 }
-{
-      "adventure": [
-        {
-          "id": 2,
-         "name": "Uncharted 4",
-          "sold": true,
-          "price": 0,
-          "image": "../assets/1.1",
-          "video": "../assets/UNCHARTED 4_ A Thief's End (5_10_2016) - Story Trailer _ PS4.mp4",
-          "link": "https://www.wifi4games.com/pc_games/d/1560",
-          "description": "the best first person shoot games is avaliable now",
-        },
-        {
-          "id": 22,
-          "name": " Assassin creed",
-          "sold": true,
-          "price": 0,
-          "image": "../assets/3.3",
-          "video": "../assets/E3 Cinematic Trailer - Assassin's Creed 4 Black Flag [UK].mp4",
-          "link": "https://www.wifi4games.com/pc_games/d/806",
-          "description": "the best first person shoot games is avaliable now",
-        },
-        {
-          "id": 222,
-          "name": "Tomb raider",
-          "sold": true,
-          "price": 0,
-          "image": "../assets/6.6",
-          "video": "../assets/Shadow Of The Tomb Raider - Official Trailer.mp4",
-          "link": "https://www.wifi4games.com/pc_games/d/1118",
-          "description": "the best first person shoot games is avaliable now",
-        },
-      ],
-     
-}
+
 
