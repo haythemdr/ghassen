@@ -8,14 +8,14 @@
           "image": "godofwar.webp",
           "imageps":"outlast.jpg",
           "variants": [
-          {
+                {
                 "id": 1,
                 "type": "PS"
-          },
-          {
+                },
+                {
                  "id": 2,
                  "type": "PC"
-          },
+                },
           ],    
           "video": "Shadow Of The Tomb Raider - Official Trailer.mp4",
           "link": "https://www.wifi4games.com/pc_games/d/1391",
@@ -30,14 +30,14 @@
           "image": "cod.jpg",
           "imageps":"outlast.jpg", 
           "variants": [
-          {
+                {
                 "id": 1,
                 "type": "PS"
-          },
-          {
+                },
+                {
                  "id": 2,
                  "type": "PC"
-          },
+                },
           ],    
           "video": "Shadow Of The Tomb Raider - Official Trailer.mp4",
           "link": "https://www.wifi4games.com/pc_games/d/1391",
@@ -52,19 +52,19 @@
           "image": "assassin.jpg",
           "imageps":"outlast.jpg", 
           "variants": [
-          {
+                {
                 "id": 1,
                 "type": "PS"
-          },
-          {
+                },
+                {
                  "id": 2,
                  "type": "PC"
-          },
+                },
           ],    
           "video": "Shadow Of The Tomb Raider - Official Trailer.mp4",
           "link": "https://www.wifi4games.com/pc_games/d/1391",
           "description": "the best first person shoot games is avaliable now",
           "systeme": "CPU: Intel Core i5-2500K / AMD FX-6300 CPU SPEED: Info RAM: 8 GB OS: Windows 10 64-bits VIDEO CARD: Nvidia GeForce GTX 780 (3 GB) or AMDRadeon R9 290 (4GB) PIXEL SHADER: 5.0 VERTEX SHADER: 5.0 FREE DISKSPACE: 100 GB DEDICATED VIDEO RAM: 3 GB"   
         }
-    ]
+      ] 
 }      
